@@ -16,6 +16,8 @@ I am Kulsum. I am learning coding.
   
   <img src="i_am_sed.png" alt="Random pic">
 
+  <p>Do you like reading? You can use this website called Sora!</p>
+  <ahref="https://soraapp.com">Visit Sora right now!</a>
 </body>
 </head>
 </html>
